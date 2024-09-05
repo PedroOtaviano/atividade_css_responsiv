@@ -61,8 +61,8 @@ section{
 
 .sobre{
     display: grid;
-    grid-template-columns: 49% 49%;
-    column-gap: 1%;
+    grid-template-columns: 48% 48%;
+    column-gap: 4%;
 }
 
 header li a{
